@@ -8,9 +8,9 @@
 
 ## Reach me out via these links:
 
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/mail_logo.png) : [My Email](marti_najjar@yahoo.com)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/twitter_logo.png)  : [Twitter](https://twitter.com/martin_najjar)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/LinkedIn_Icon.png)   : [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)
+- <pre>![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/mail_logo.png) : [My Email](marti_najjar@yahoo.com)</pre>
+- <pre>![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/twitter_logo.png)  : [Twitter](https://twitter.com/martin_najjar)</pre>
+- <pre>![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/LinkedIn_Icon.png)   : [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)</pre>
 
 <!--
 **martinnajjar12/martinnajjar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
