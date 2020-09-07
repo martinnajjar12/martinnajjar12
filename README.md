@@ -4,7 +4,7 @@
 
 ### About me:
 
-> My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast. Fast/Long life learner muscles.png
+> My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast. Fast/Long-life learner ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/muscles.png)
 
 ### Reach me out via these links:
 
