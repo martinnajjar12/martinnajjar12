@@ -1,16 +1,16 @@
-### Hey, Folks ![Hey](https://github.com/martinnajjar12/martinnajjar12/blob/master/hey.gif)
+# Hey, Folks ![Hey](https://github.com/martinnajjar12/martinnajjar12/blob/master/hey.gif)
 
 ![Header](https://github.com/martinnajjar12/martinnajjar12/blob/master/header.jpg)
 
-# About me:
+### About me:
 
-> My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) ![Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast.
+> My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast. Fast/Long life learner muscles.png
 
-# Reach me out via these links:
+### Reach me out via these links:
 
 - ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/mail_logo.png): [My Email](marti_najjar@yahoo.com)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/LinkedIn_Icon.png): [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)
 - ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/twitter_logo.png): [Twitter](https://twitter.com/martin_najjar)
+- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/LinkedIn_Icon.png): [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)
 
 <!--
 **martinnajjar12/martinnajjar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
