@@ -1,4 +1,4 @@
-### Hi there 👋 ![Hey](https://images.app.goo.gl/HgnKTirGZeRNE67k7)
+### Hi there 👋 ![Hey](https://github.com/martinnajjar12/martinnajjar12/blob/master/hey.gif)
 
 <!--
 **martinnajjar12/martinnajjar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
