@@ -2,11 +2,15 @@
 
 ![Header](https://github.com/martinnajjar12/martinnajjar12/blob/master/header.jpg)
 
-### Reach me out via these links:
+# About me:
 
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/mail-logo.png): [My Email](marti_najjar@yahoo.com)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/LinkedIn-Icon.png): [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/twitter_PNG3.png): [Twitter](https://twitter.com/martin_najjar)
+> My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) ![Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast.
+
+# Reach me out via these links:
+
+- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/mail_logo.png): [My Email](marti_najjar@yahoo.com)
+- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/LinkedIn_Icon.png): [LinkedIn](https://www.linkedin.com/in/martin-najjar-174948198/)
+- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/twitter_logo.png): [Twitter](https://twitter.com/martin_najjar)
 
 <!--
 **martinnajjar12/martinnajjar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
