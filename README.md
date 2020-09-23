@@ -6,7 +6,7 @@
 
 > My name is Martin Najar, currently I'm a student and mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/). I'm a Sass and React.js enthusiast. Fast/Long-life learner ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/muscles.png)
 
-## Reach me out via these links:
+## Reach out to me via these links:
 
 - ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/mail_logo.png) : [My Email](marti_najjar@yahoo.com)
 - ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/twitter_logo.png)  : [Twitter](https://twitter.com/martin_najjar)
