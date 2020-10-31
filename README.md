@@ -4,14 +4,19 @@
 
 ## About me:
 
-> My name is Martin Najar, currently I'm a student and mentor at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/). I'm a Sass and React.js enthusiast. Fast/Long-life learner ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/muscles.png)
+> Hey there. My name is Martin Najjar, I'm a Full Stack Developer. I have experience with Ruby, Ruby on Rails, React, Redux, Javascript. Also I have a solid knowledge and experience on how to work with Git, GitHub, Heroku, DevTools, PhotoShop. Husband 🤵 and daddy 🧙‍♂️. Mentor 👨‍🏫 and hard worker 👨‍💻. Ambitious 🤩 and fast learner 🤓. Alumni of [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/).
 
-## Reach out to me via these links:
+## 📫 Reach out to me via these links:
 
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/mail_logo.png) : [My Email](marti_najjar@yahoo.com)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/twitter_logo.png)  : [Twitter](https://twitter.com/martin_najjar)
-- ![](https://github.com/martinnajjar12/martinnajjar12/blob/master/imgs/LinkedIn_Icon.png)   : [LinkedIn](https://www.linkedin.com/in/martinnajjar12/)
+- My Email: marti_najjar@yahoo.com
+- ![](https://img.shields.io/github/followers/martinnajjar12?label=Follow%20me%20on%20GitHub&style=social)
+- ![](https://img.shields.io/twitter/url?label=Visit%20my%20Twitter%20account&style=social&url=https%3A%2F%2Ftwitter.com%2Fmartin_najjar)
+- ![](https://img.shields.io/twitter/follow/martin_najjar?label=Follow%20me%20on%20Twitter&style=social)
+- [![](https://img.shields.io/badge/LINKEDIN-Visit%20my%20LinkedIn%20account-brightgreen?style=social&logo=appveyor)](https://www.linkedin.com/in/martinnajjar12/)
 
+## My GitHub Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=martinnajjar12&hide=issues&count_private=true&show_icons=true&bg_color=#161d27&icon_color=#206c76&text_color=#206c76&titile_color=#edf7f9)](https://github.com/martinnajjar12/github-readme-stats)
 
 <!--
 **martinnajjar12/martinnajjar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
