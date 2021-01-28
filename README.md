@@ -8,7 +8,7 @@
 
 ## 📫 Reach out to me via these links:
 
-- My Email: marti_najjar@yahoo.com
+- My Email: martin@martinnajjar.tech
 - [![](https://img.shields.io/github/followers/martinnajjar12?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/martinnajjar12)
 - [![](https://img.shields.io/twitter/url?label=Visit%20my%20Twitter%20account&style=social&url=https%3A%2F%2Ftwitter.com%2Fmartin_najjar)](https://twitter.com/martin_najjar)
 - [![](https://img.shields.io/badge/LINKEDIN-Visit%20my%20LinkedIn%20account-brightgreen?style=social&logo=appveyor)](https://www.linkedin.com/in/martinnajjar12/)
