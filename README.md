@@ -4,7 +4,7 @@
 
 ## 📇 About me:
 
-If you're looking for my personal Info:
+**If you're looking for my personal Info:**
 
 ```
   const personalInfo = {
@@ -14,17 +14,17 @@ If you're looking for my personal Info:
   };
 ```
 
-And if you're wondering what are the technologies I use:
+**And if you're wondering what are the technologies I use:**
 ```
   const stack = ['Ruby', 'Ruby on Rails', 'JavaScript', 'ReactJS', 'Redux', 'Bootstrap', 'Material UI'];
 ```
 
-Who said I don't test my code?? Here are the techs I use for testing:
+**Who said I don't test my code?? Here are the techs I use for testing:**
 ```
   const tests = ['RSpec', 'Capybara', 'ShouldaMatchers', 'Selenium', 'Jest'];
 ```
 
-I use Linters? Sure. Check this out:
+**I use Linters? Sure. Check this out:**
 ```
   const myLinters = {
     htmlCss: ['Lighthouse', 'Webhint', 'Stylelint'],
@@ -33,12 +33,12 @@ I use Linters? Sure. Check this out:
     };
 ```
 
-The tools I use? Here they are:
+**The tools I use? Here they are:**
 ```
   const tools = ['Git', 'GitHub', 'VSCode', 'Heroku', 'Netlify', 'DevTools', 'PhotoShop'];
 ```
 
-How did I learn coding?? Well, this is the story:
+**How did I learn coding?? Well, this is the story:**
 ```
   const education = {
     love: 'love? Yeah, you read it right. I fell in love with coding',
@@ -47,7 +47,7 @@ How did I learn coding?? Well, this is the story:
     };
 ```
 
-Can hire me? Sure:
+**Can hire me? Sure:**
 ```
   let status = 'Looking for a job in the tech industry';
 ```
