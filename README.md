@@ -66,4 +66,3 @@
   <a href="mailto:martin@martinnajjar.tech"><img src='./imgs/mail-line.svg' alt='mail icon'></a>
   <a href="https://martinnajjar.tech"><img src="./imgs/external-link-fill.svg" alt="external link icon"></a>
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martinnajjar12.martinnajjar12)
