@@ -7,7 +7,11 @@
 If you're looking for my personal Info:
 
 ```
-   const personalInfo = {name: 'Martin Najjar', title: 'Full Stack Developer', specialTitles: ['Husband 🤵', 'Daddy 🧙‍♂️', ' Mentor 👨‍🏫', 'Hard worker 👨‍💻']};
+  const personalInfo = {
+    name: 'Martin Najjar',
+    title: 'Full Stack Developer',
+    specialTitles: ['Husband 🤵', 'Daddy 🧙‍♂️', ' Mentor 👨‍🏫', 'Hard worker 👨‍💻']
+  };
 ```
 
 And if you're wondering what are the technologies I use:
@@ -48,16 +52,12 @@ Can hire me? Sure:
   let status = 'Looking for a job in the tech industry';
 ```
 
-<!-- - My Email: martin@martinnajjar.tech
-- [![](https://img.shields.io/github/followers/martinnajjar12?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/martinnajjar12)
-- [![](https://img.shields.io/twitter/url?label=Visit%20my%20Twitter%20account&style=social&url=https%3A%2F%2Ftwitter.com%2Fmartin_najjar)](https://twitter.com/martin_najjar)
-- [![](https://img.shields.io/badge/LINKEDIN-Visit%20my%20LinkedIn%20account-brightgreen?style=social&logo=appveyor)](https://www.linkedin.com/in/martinnajjar12/) -->
 <br /><br />
 ## 📜 My GitHub Stats:
   [![My github stats](https://github-readme-stats.vercel.app/api?username=martinnajjar12&hide=issues&count_private=true&show_icons=true&bg_color=161d27&icon_color=c3e4e8&text_color=c3e4e8&title_color=edf7f9)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br /><br />
 ## 📫 Reach out to me via these links:
-<br /><br />
+<br />
 
 <div align='center'>
   Let's get in touch 😉 <br /><br />
