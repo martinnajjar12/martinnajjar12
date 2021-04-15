@@ -21,7 +21,7 @@
 
 **Who said I don't test my code?? Here are the techs I use for testing:**
 ```
-  const tests = ['RSpec', 'Capybara', 'ShouldaMatchers', 'Selenium', 'Jest'];
+  const tests = ['RSpec', 'Capybara', 'ShouldaMatchers', 'Selenium', 'Jest', 'Moxios', 'Redux Mock Store'];
 ```
 
 **I use Linters? Sure. Check this out:**
