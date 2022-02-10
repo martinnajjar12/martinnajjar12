@@ -52,12 +52,6 @@
     };
 ```
 
-**Can hire me? Sure:**
-
-```
-  let status = 'FrontEnd Developer in H&M :)';
-```
-
 <br /><br />
 
 ## 📜 My GitHub Stats:
