@@ -55,7 +55,7 @@
 **Can hire me? Sure:**
 
 ```
-  let status = 'Actively looking for a Full-Stack or a Frontend role';
+  let status = 'FrontEnd Developer in H&M :)';
 ```
 
 <br /><br />
