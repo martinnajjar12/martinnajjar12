@@ -39,7 +39,12 @@
 **The tools I use? Here they are:**
 
 ```
-  const tools = ['Git', 'GitHub Actions', 'AWS', 'VSCode', 'Heroku', 'Netlify', 'Vercel', 'DevTools', 'PhotoShop'];
+  const tools = ['Git', 'GitHub Actions', 'Azure', 'VSCode', 'Heroku', 'Netlify', 'Vercel', 'DevTools', 'PhotoShop'];
+```
+
+**What about DevOps?**
+```
+  const devOps = ['Professional Cloud Developer Certificated', 'GitHub CI/CD'];
 ```
 
 **How did I learn coding?? Well, this is the story:**
@@ -67,6 +72,5 @@
   Let's get in touch 😉 <br /><br />
   <a href="https://www.linkedin.com/in/martinnajjar12"><img src='./imgs/linkedin-box-line.svg' alt='linkedin icon'></a>
   <a href="https://twitter.com/martin_najjar"><img src='./imgs/twitter-line.svg' alt='twitter icon'></a>
-  <a href="mailto:martin@martinnajjar.tech"><img src='./imgs/mail-line.svg' alt='mail icon'></a>
-  <a href="https://martinnajjar.tech"><img src="./imgs/external-link-fill.svg" alt="external link icon"></a>
+  <a href="mailto:martin_najjar@yahoo.com"><img src='./imgs/mail-line.svg' alt='mail icon'></a>
 </div>
